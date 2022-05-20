@@ -7,6 +7,6 @@ Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on a [hydrology package](https://github.com/brownhr/excess)
 - 🌱 I’m currently learning Hindi 🕉️
-- 👯 I’m looking to collaborate on R and GIS [bookdown](https://github.com/yihui/bookdown) courses
+- 👯 I’m looking to collaborate on R and GIS [bookdown](https://github.com/rstudio/bookdown) courses
 - 📫 How to reach me: [email](mailto:brownhr314@gmail.com)
 - 😄 He/Him
