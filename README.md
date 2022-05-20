@@ -10,4 +10,3 @@ Here are some ideas to get you started: -->
 - 👯 I’m looking to collaborate on R and GIS [bookdown](github.com/yihui/bookdown) courses
 - 📫 How to reach me: [email](mailto:brownhr314@gmail.com)
 - 😄 He/Him
-- 
